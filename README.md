@@ -1,6 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist
 
-Accomplished Data Analytics with 5+ years of expertise in transforming raw data into actionable insights. Proficient in business data analysis, mathematical modeling, and advanced machine learning techniques. Passionate about driving data-driven decision making in the dynamic field of Data Analytics, Data Science, and Machine Learning. Highly effective full-stack software developer offering a wealth of more than 2+ years of expertise in Backend and Frontend.  * 🌍  I'm based in Michigan * ✉️  You can contact me at [imshiv@umich.edu](mailto:imshiv@umich.edu) * 🧠  I'm learning Deep Learning * 🤝  I'm open to collaborating on ML, Deep Learning * ⚡  I'm secretly Spiderman.. Don't tell anybody
+Accomplished Data Analytics with 5+ years of expertise in transforming raw data into actionable insights. Proficient in business data analysis, mathematical modeling, and advanced machine learning techniques. Passionate about driving data-driven decision making in the dynamic field of Data Analytics, Data Science, and Machine Learning. Highly effective full-stack software developer offering a wealth of more than 2+ years of expertise in Backend and Frontend. 
+
+* 🌍  I'm based in Michigan 
+* ✉️  You can contact me at [imshiv@umich.edu](mailto:imshiv@umich.edu) 
+* 🧠  I'm learning Deep Learning 
+* 🤝  I'm open to collaborating on ML, Deep Learning 
+* ⚡  I'm secretly Spiderman.. Don't tell anybody
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiva-00mi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shiva_i0) 
@@ -17,12 +23,6 @@ Accomplished Data Analytics with 5+ years of expertise in transforming raw data 
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/shiva_i0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Fhow-to-create-an-end-to-end-machine-learning-workflow&psig=AOvVaw0fPAd7fNKz5TFdpQ8aqyAo&ust=1677902340785000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjswbzvvv0CFQAAAAAdAAAAABAQ))
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imshiv-10&icon=0&color=0)](https://visitcount.itsvg.in)
