@@ -1,6 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist
 
-Accomplished Data Analytics with 5+ years of expertise in transforming raw data into actionable insights. Proficient in business data analysis, mathematical modeling, and advanced machine learning techniques. Passionate about driving data-driven decision making in the dynamic field of Data Analytics, Data Science, and Machine Learning. Highly effective full-stack software developer offering a wealth of more than 2+ years of expertise in Backend and Frontend. 
+Accomplished Data Analytics with 5+ years of expertise in transforming raw data into actionable insights. Proficient in business data analysis, mathematical modeling, and advanced machine learning techniques. Passionate about driving data-driven decision making in the dynamic field of Data Analytics, Data Science, and Machine Learning. 
+Highly effective full-stack software developer offering a wealth of more than 2+ years of expertise in Backend and Frontend. 
 
 * 🌍  I'm based in Michigan 
 * ✉️  You can contact me at [imshiv@umich.edu](mailto:imshiv@umich.edu) 
