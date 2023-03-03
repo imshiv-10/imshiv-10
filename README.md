@@ -21,12 +21,6 @@ Accomplished Data Analytics with 5+ years of expertise in transforming raw data 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imshiv-10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/shiva_i0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=imshiv-10&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shiva) 
 
