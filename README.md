@@ -24,7 +24,6 @@ Highly effective full-stack software developer offering a wealth of more than 2+
 ![](https://github-profile-trophy.vercel.app/?username=imshiv-10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shiva) 
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imshiv) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
